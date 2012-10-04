@@ -1,0 +1,4 @@
+AwesomeShips
+============
+
+*Study repo*
